@@ -45,6 +45,7 @@ tooling:
     should be fast (both start & run)
     allow code level packages
     reproducible builds
+    modularity and extensibility
 
 ffi:
   native
