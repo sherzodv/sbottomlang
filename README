@@ -10,6 +10,11 @@ function levels:
   gen: macrolevel function, body runs at compile time to manipulate ast
   fun: runtime level function, ordinary function, body runs at runtime to perform actual work
 
+engineering:
+  infrustructural abstractions ?
+    distributed computations
+    code hash control ?
+
 type system:
   subtyping
   structural types
