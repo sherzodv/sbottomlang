@@ -1,0 +1,44 @@
+SBottom community language
+
+Defining feature set and syntax:
+
+current backend:
+  golang
+
+function levels:
+  def: typelevel function, body runs at compile time to form a type
+  gen: macrolevel function, body runs at compile time to manipulate ast
+  fun: runtime level function, ordinary function, body runs at runtime to perform actual work
+
+type system:
+  subtyping
+  structural types
+  dependent types
+  higher order types
+  session types ?
+  linar types ?
+  totality control
+
+syntax features:
+  multi-clause functions
+  dot notation
+  uniform function call
+  
+modules:
+  
+tooling:
+  lsp
+  ides: 
+    vscode
+    idea
+    vim
+    emacs
+  build system:
+    should be fast (both start & run)
+    allow code level packages
+    reproducible builds
+
+ffi:
+  native
+  go
+  jvm

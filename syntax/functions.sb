@@ -1,0 +1,10 @@
+// multi-clause
+
+fun boo(match) = 1
+fun boo(match) = 2
+
+boo(a)
+
+// dot notation
+
+// uniform function call syntax
