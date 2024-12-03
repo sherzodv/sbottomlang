@@ -27,6 +27,11 @@ type system:
   linar types ?
   totality control
 
+effects:
+  fully expressible in type system
+  rich effects library
+  algebraic effects?
+
 syntax features:
   multi-clause functions
   dot notation / method chaining
@@ -39,6 +44,7 @@ modules:
   no intersections
   
 tooling:
+  rich std (scala)
   lsp
   ides: 
     vscode
