@@ -1,6 +1,9 @@
 SBottom community language
 
 Defining feature set and syntax:
+  powerful state of the art type system with proof assistent expressiveness
+  easy readable syntax suitable for "value"
+  best tooling
 
 current backend:
   golang
