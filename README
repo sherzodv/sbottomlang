@@ -25,6 +25,9 @@ syntax features:
   uniform function call
   
 modules:
+  file system bound?
+  open syntax (header)
+  no intersections
   
 tooling:
   lsp
