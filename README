@@ -27,6 +27,7 @@ type system:
   session types ?
   linar types ?
   totality control
+  type classes
 
 effects:
   fully expressible in type system
