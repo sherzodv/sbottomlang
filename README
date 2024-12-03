@@ -26,8 +26,9 @@ type system:
 
 syntax features:
   multi-clause functions
-  dot notation
+  dot notation / method chaining
   uniform function call
+  scala like string interpolators
   
 modules:
   file system bound?
