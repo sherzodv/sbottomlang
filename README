@@ -63,3 +63,9 @@ ffi:
   native
   go
   jvm
+
+crazy ideas:
+  contextual coherency:
+    each set of contextual instances create a globally referenceable context: need to come up with syntax for this
+    coherent keyword, marks both summoning and type defs as globally unique
+
